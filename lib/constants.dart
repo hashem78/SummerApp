@@ -1,0 +1,1 @@
+const String kBGLink ="https://raw.githubusercontent.com/hashem78/SolidBGs/master/";
